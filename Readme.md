@@ -1,8 +1,15 @@
 # Auto Classifying Tool
 
-## 1. Execution and Arguments
-## 2. Enviroments
-## 3. Comments' Sentiment Analyzing
-## 4. Mechanical Mistakes
-## 5. Grammar Mistakes
-## 6. Vocabulary Mistakes
+## Enviroments
+* Python 2.7.3
+* Python packages
+	* nltk
+	* Pattern
+	* python-rake 
+
+## Execution and Arguments
+`python classify.py [article file] [original feedback file] [output feedback file]`
+## Comments' Sentiment Analyzing
+## Mechanical Mistakes
+## Grammar Mistakes
+## Vocabulary Mistakes
