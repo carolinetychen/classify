@@ -48,4 +48,12 @@
 * Detecting punctuation problems: see if only punctuation are modified
 
 ## Grammar Mistakes
+`def grammar`
+
+* Detecting errors of definite article, ex: "the" to "a".
+* Detecting errors of tenses by determining if the stem and the conjugation of the original text and modified text are the same.
+	* NLTK stem function
+	* pattern.en conjugate function
+
 ## Vocabulary Mistakes
+* Modification other than Mechanical Errors and Grammar Errors
