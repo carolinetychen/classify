@@ -56,4 +56,4 @@
 	* pattern.en conjugate function
 
 ## Vocabulary Mistakes
-* Modification other than Mechanical Errors and Grammar Errors
+* Modifications other than Mechanical Errors and Grammar Errors
