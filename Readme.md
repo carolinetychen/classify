@@ -32,10 +32,20 @@
 	* add characters appear before the word to the head until meeting a space or punctuation
 
 ## Comments' Sentiment Analyzing
+`def pos_neg`
 
+* Determine whether the comment is positive or negative
+* If any of positive or negative is larger than 0, then compare them and output the larger one, otherwise output "Neural"
+
+`def extract_keywords`
+
+* Using RAKE(Rapid Automatic Keyword Extraction) algorithm to extract keywords of comments
 
 ## Mechanical Mistakes
+`def mechanical`
 
+* Detecting capitalize problems: see if the lowercase of original text and the lowercase of modified text are the same
+* Detecting punctuation problems: see if only punctuation are modified
 
 ## Grammar Mistakes
 ## Vocabulary Mistakes
